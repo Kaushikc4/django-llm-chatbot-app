@@ -4,6 +4,18 @@
 A simple yet powerful chatbot application built using Django, Streamlit, and LLM APIs.  
 This project lets users chat with an AI model, view past conversations, and start new ones—similar to ChatGPT’s interface.
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Key Features](#key-features)
+  - [Chat Interface (Streamlit)](#1-chat-interface-streamlit)
+  - [Backend (Django)](#2-backend-django)
+  - [Session Storage](#3-session-storage)
+- [Installation & Setup](#installation--setup)
+  - [Clone the Repository](#1-clone-the-repository)
+  - [Create and Activate Virtual Environment](#2-create-and-activate-virtual-environment)
+  - [Run Django Server](#3-run-the-django-server)
+  - [Run Streamlit App](#4-run-the-streamlit-chat-app)
+
 ---
 
 ## Key Features

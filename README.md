@@ -79,3 +79,9 @@ python manage.py runserver
 ```bash
 streamlit run ai_chat/streamlit_app.py
 ```
+
+
+---
+
+### 🖼️ UI Preview
+![App Screenshot](images/mini_gpt.jpg)
